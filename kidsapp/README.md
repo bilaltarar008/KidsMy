@@ -1,4 +1,4 @@
-# kidsapp
+# kidemy
 
 A new Flutter project.
 
